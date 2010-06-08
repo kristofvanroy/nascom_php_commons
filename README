@@ -1,0 +1,10 @@
+Nascom PHP Commons
+------------------
+
+DB Class
+-
+Connect to database and execute queries.
+
+Validator Class
+-
+Validate post values and return errors.
